@@ -1,0 +1,6 @@
+web-scraping-project/
+│
+├── scraper.py
+├── requirements.txt
+├── README.md
+└── output/
